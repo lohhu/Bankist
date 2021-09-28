@@ -2,7 +2,7 @@
 
 ![bankist](https://user-images.githubusercontent.com/91482830/135046460-6704f44e-acdc-4f76-bd3a-fe0e30636f1e.PNG)
 
-## How to Login
+## :key: How to Login
 
 user: js<br/>
 PIN: 1111
@@ -16,7 +16,7 @@ PIN: 3333
 user: ss<br/>
 PIN: 4444
 
-## Features
+## ⭐ Features
 - [x] Login
 - [x] Transfer money
 - [x] Request loan
